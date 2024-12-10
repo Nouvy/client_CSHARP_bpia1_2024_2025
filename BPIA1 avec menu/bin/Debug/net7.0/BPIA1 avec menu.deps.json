@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BPIA1 avec menu/1.0.0": {
+        "runtime": {
+          "BPIA1 avec menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BPIA1 avec menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

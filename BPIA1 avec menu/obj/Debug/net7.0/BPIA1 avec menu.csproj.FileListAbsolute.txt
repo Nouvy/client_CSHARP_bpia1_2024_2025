@@ -1,0 +1,15 @@
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/bin/Debug/net7.0/BPIA1 avec menu
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/bin/Debug/net7.0/BPIA1 avec menu.deps.json
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/bin/Debug/net7.0/BPIA1 avec menu.runtimeconfig.json
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/bin/Debug/net7.0/BPIA1 avec menu.dll
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/bin/Debug/net7.0/BPIA1 avec menu.pdb
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.csproj.AssemblyReference.cache
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.AssemblyInfoInputs.cache
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.AssemblyInfo.cs
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.csproj.CoreCompileInputs.cache
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.dll
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/refint/BPIA1 avec menu.dll
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.pdb
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/BPIA1 avec menu.genruntimeconfig.cache
+/Users/fabob/Projects/BPIA1 avec menu/BPIA1 avec menu/obj/Debug/net7.0/ref/BPIA1 avec menu.dll
